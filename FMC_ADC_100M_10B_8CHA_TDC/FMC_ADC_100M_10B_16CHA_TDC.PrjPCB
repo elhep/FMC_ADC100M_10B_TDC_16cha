@@ -171,7 +171,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GTHULULJ
+DocumentUniqueId=FWBXEFII
 
 [Document9]
 DocumentPath=CFD.SchDoc
@@ -526,7 +526,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=DYMO MobileLabeler
+TargetPrinter=Brother DCP-J315W Printer (Copy 1)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
