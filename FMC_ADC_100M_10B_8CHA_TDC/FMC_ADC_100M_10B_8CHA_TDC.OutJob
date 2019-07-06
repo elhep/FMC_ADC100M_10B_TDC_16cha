@@ -347,7 +347,7 @@ FFmpegPixelFormat3=0
 FFmpegQuality3=80
 WmvVideoCodecName3=Windows Media Video V7
 WmvQuality3=80
-OutputFilePath4=D:\Dropbox\DESIGNS\MCORD_NICA\FMC_MCORD\Project Outputs for FMC_ADC_100M_10B_16CHA_TDC\Urukul_9910.PDF
+OutputFilePath4=D:\Dropbox\DESIGNS\MCORD_NICA\FMC_MCORD\FMC_ADC_100M_10B_8CHA_TDC\Project Outputs for FMC_ADC_100M_10B_16CHA_TDC\FMC_ADC_10B_16CHA_TDC.PDF
 ReleaseManaged4=0
 OutputBasePath4=Project Outputs for FMC_ADC_100M_10B_16CHA_TDC\
 OutputPathMedia4=
@@ -388,6 +388,6 @@ OpenIPCOutput2=0
 EnableReload2=0
 RelativeOutputPath3=
 OpenOutputs3=1
-RelativeOutputPath4=D:\Dropbox\DESIGNS\MCORD_NICA\FMC_MCORD\Project Outputs for FMC_ADC_100M_10B_16CHA_TDC\Urukul_9910.PDF
+RelativeOutputPath4=D:\Dropbox\DESIGNS\MCORD_NICA\FMC_MCORD\FMC_ADC_100M_10B_8CHA_TDC\Project Outputs for FMC_ADC_100M_10B_16CHA_TDC\FMC_ADC_10B_16CHA_TDC.PDF
 OpenOutputs4=1
 
